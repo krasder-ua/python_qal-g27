@@ -1,1 +1,1 @@
-# Python QALight 27
+# Python qalight 27
